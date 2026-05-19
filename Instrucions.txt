@@ -1,0 +1,5 @@
+How to run simple-express-app on Windows
+
+1. Unzip the archive.
+2. Open the .exe
+3. Connect to the website
